@@ -1,6 +1,6 @@
 # Gitignore Online Generator
 
-Generate `.gitignore` file online:
+Tool for generating `.gitignore` file online:
 
 [https://michaelliao.github.io/gitignore-online-generator/](https://michaelliao.github.io/gitignore-online-generator/)
 
